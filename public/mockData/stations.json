@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "name": "BP Express Oasis",
+      "address": "133-135 Widmore Road, Bromley BR1 3AX",
+      "radius": 0.3,
+      "is24Hours": true,
+      "hasConvenienceStore": true,
+      "hasHotFood": true,
+      "acceptsBpCard": true
+    },
+    {
+      "id": 2,
+      "name": "BP EcoHub",
+      "address": "391 Crofton Road, Orpington BR6 8NL",
+      "radius": 1.2,
+      "is24Hours": false,
+      "hasConvenienceStore": true,
+      "hasHotFood": false,
+      "acceptsBpCard": true
+    },
+    {
+      "id": 3,
+      "name": "Greenway BP Station",
+      "address": "Perry Street, Chislehurst BR7 6HB",
+      "radius": 2.5,
+      "is24Hours": true,
+      "hasConvenienceStore": false,
+      "hasHotFood": false,
+      "acceptsBpCard": false
+    },
+    {
+      "id": 4,
+      "name": "BP On-the-Go",
+      "address": "21 Mottingham Road, Mottingham SE9 4QN",
+      "radius": 4.8,
+      "is24Hours": false,
+      "hasConvenienceStore": true,
+      "hasHotFood": true,
+      "acceptsBpCard": true
+    },
+    {
+      "id": 5,
+      "name": "BP Horizon Point",
+      "address": "411 Bromley Road, Bromley BR1 4PJ",
+      "radius": 3.6,
+      "is24Hours": true,
+      "hasConvenienceStore": true,
+      "hasHotFood": false,
+      "acceptsBpCard": true
+    },
+    {
+      "id": 6,
+      "name": "BP Midnight Stop",
+      "address": "255 High Street, Beckenham BR3 1DY",
+      "radius": 0.9,
+      "is24Hours": true,
+      "hasConvenienceStore": false,
+      "hasHotFood": true,
+      "acceptsBpCard": false
+    },
+    {
+      "id": 7,
+      "name": "BP Fuel Haven",
+      "address": "13 Elm Grove, Croydon CR0 1UE",
+      "radius": 5.4,
+      "is24Hours": false,
+      "hasConvenienceStore": true,
+      "hasHotFood": false,
+      "acceptsBpCard": true
+    },
+    {
+      "id": 8,
+      "name": "BP Voyager",
+      "address": "78 Green Lane, Lewisham SE6 3DS",
+      "radius": 6.0,
+      "is24Hours": true,
+      "hasConvenienceStore": true,
+      "hasHotFood": true,
+      "acceptsBpCard": true
+    },
+    {
+      "id": 9,
+      "name": "BP Urban Retreat",
+      "address": "42 South Street, Sidcup DA14 6RA",
+      "radius": 2.1,
+      "is24Hours": false,
+      "hasConvenienceStore": false,
+      "hasHotFood": true,
+      "acceptsBpCard": false
+    },
+    {
+      "id": 10,
+      "name": "BP Countryside Fuel",
+      "address": "23 Oakwood Drive, Sevenoaks TN13 1NL",
+      "radius": 1.5,
+      "is24Hours": true,
+      "hasConvenienceStore": true,
+      "hasHotFood": false,
+      "acceptsBpCard": true
+    }
+  ]
+  
